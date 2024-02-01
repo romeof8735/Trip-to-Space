@@ -5,5 +5,5 @@ The purpose of this project is to use our skills of Git and Github to create our
 
 ### Head into your Adventure now!
 Click [here](NASA.md) to begin your Adventure!                                                                                                                                                                                 
-*SPOILER* Click [here](https://docs.google.com/drawings/d/1Q3pETEW8oFP3LgRpNfnkLG5bgiDNHVhcfkMTy_AaHQA/edit) to see the diagram of where your choices lead you.
+*SPOILER* Click [here](https://docs.google.com/drawings/d/1Q3pETEW8oFP3LgRpNfnkLG5bgiDNHVhcfkMTy_AaHQA/edit) to see the diagram of where your choices lead you.                                                                
 Made by [**Romeo Fajardo**](https://github.com/romeof8735) and [**Katherine Wu**](https://github.com/katherinew5896)
