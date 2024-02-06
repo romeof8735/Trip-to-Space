@@ -1,3 +1,5 @@
-You find a strange creature
----
-* []()
+# Strange creature
+
+You find a strange creature and it starts to run after you
+
+* [You died](death.md)
