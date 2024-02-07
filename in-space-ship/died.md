@@ -1,4 +1,4 @@
-# The aliens got mad! How could you..
+# How could you..
 
 Oh no! The aliens got mad and shot you with their laser gun.
 
